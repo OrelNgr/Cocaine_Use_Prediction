@@ -1,0 +1,13 @@
+json
+json5==0.9.1
+pandas==1.0.1
+numpy==1.18.1
+pprint
+gradio==2.9.4
+PercentFormatter
+seaborn==0.10.0
+sklearn
+matplotlib==3.5.1
+collections
+sortedcollections==1.2.1
+itertools
